@@ -1,0 +1,19 @@
+{
+ "devs": [
+    {"name" : "Nilhouse"},
+    {"name" : "Steve"},
+    {"name" : "Becky"},
+    {"name" : "Dave"},
+    {"name" : "Boguste"},
+    {"name" : "Patrick"},
+    {"name" : "Max"}
+  ], 
+  "cloud":[
+    {"name" : "Keith"}
+  ],
+  "qa": [
+      {"name": "Mark"},
+      {"name": "Lindsey"},
+      {"name": "Aman"}
+  ]
+}
